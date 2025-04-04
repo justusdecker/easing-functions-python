@@ -1,3 +1,6 @@
+I translated most of the code from https://easings.net/ to python.
+Some things might not work as expected currently!
+
 <table> 
 <tr>
   
