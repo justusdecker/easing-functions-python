@@ -4,6 +4,7 @@ from math import pi,cos,sqrt
 """
 (c) 2025 Justus Decker
 """
+
 def animator(func) -> list[float]: return [func(i * .01) for i in range(101)]
 
 class Animations:
@@ -61,19 +62,46 @@ class Animations:
 
     def ease_in_cubic(x: float) -> float:
         return x**3
+    
     def ease_in_out_quad(x: float) -> float:
         return [2*x*x,1 - ((-2 * x + 2)**2)/2][x > .5]
+    
     def ease_out_quad(x: float) -> float:
         return (x*-1)**2
 
     def ease_in_quad(x: float) -> float:
         return x**2
+    
     def ease_out_sine(x:float) -> float:
         return cos(x*pi/2)
+    
     def ease_in_sine(x:float) -> float:
         return 1 - cos(x*pi/2)
 
+    def ease_in_out_sine(x: float) -> float:
+        return -(cos(pi * x) - 1) / 2
+    
+    def ease_in_out_bounce(x: float) -> float:
+        """Coming soon"""
+        
+    def ease_in_expo(x: float) -> float:
+        """Coming soon"""
+    def ease_out_expo(x: float) -> float:
+        """Coming soon"""
+    def ease_in_out_expo(x: float) -> float:
+        """Coming soon"""
+    
+    def ease_in_elastic(x: float) -> float:
+        """Coming soon"""
+    def ease_out_elastic(x: float) -> float:
+        """Coming soon"""
+    def ease_in_out_elastic(x: float) -> float:
+        """Coming soon"""
+    
     def ease_out_bounce(x: float) -> float:
+        return 1 - Animations.ease_in_bounce(1 - x)
+    
+    def ease_in_bounce(x: float) -> float:
         N = 7.5625
         D = 2.75
         X1 = x - (1.5 / D)
@@ -92,5 +120,7 @@ class Animations:
             x = X3
             return N * (x**2) + 0.984375
 
-plt.plot(animator(Animations.ease_in_sine))
+animation = Animations.ease_in_bounce
+
+plt.plot(animator(animation))
 plt.show()
