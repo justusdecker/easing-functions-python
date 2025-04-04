@@ -92,4 +92,73 @@
 </tr>
 
 
+<tr>
+  <th>
+    ease-in-quart
+  </th>
+  <th>
+    ease-out-quart
+  </th>
+  <th>
+    ease-in-out-quart
+  </th>
+</tr>
+<tr>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_quart-2.png">
+   </td>
+   <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_quart-2.png">
+   </td>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_out_quart-2.png">
+   </td>
+</tr>
+
+<tr>
+  <th>
+    ease-in-quint
+  </th>
+  <th>
+    ease-out-quint
+  </th>
+  <th>
+    ease-in-out-quint
+  </th>
+</tr>
+<tr>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_quint-2.png">
+   </td>
+   <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_quint-2.png">
+   </td>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_out_quint-2.png">
+   </td>
+</tr>
+
+<tr>
+  <th>
+    ease-in-circ
+  </th>
+  <th>
+    ease-out-circ
+  </th>
+  <th>
+    ease-in-out-circ
+  </th>
+</tr>
+<tr>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_circ-2.png">
+   </td>
+   <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_circ-2.png">
+   </td>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_out_circ-2.png">
+   </td>
+</tr>
+
 </table>
