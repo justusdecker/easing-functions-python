@@ -1,12 +1,6 @@
 <table> 
 <tr>
   <th>
-    <h1>Preview</h1>
-  </th>
-</tr>
-
-<tr>
-  <th>
     linear
   </th>
 </tr>
