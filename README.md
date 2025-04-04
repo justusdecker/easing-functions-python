@@ -8,6 +8,8 @@
     heartbeat
   </th>
 </tr>
+
+
 <tr>
   <td>
     <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/linear-2.png">
@@ -36,6 +38,9 @@
   <th>
     ease-out-sine
   </th>
+  <th>
+    ease-in-out-sine
+  </th>
 </tr>
 <tr>
   <td>
@@ -43,6 +48,9 @@
    </td>
    <td>
     <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_sine-2.png">
+   </td>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_out_sine-2.png">
    </td>
 </tr>
 
