@@ -1,8 +1,8 @@
 <table> 
 <tr>
   
-  <th style="font-size:20px;">
-    Preview
+  <th>
+    <h1>Preview<h2>
   </th>
 </tr>
 
