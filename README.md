@@ -1,7 +1,7 @@
 <table> 
 <tr>
   
-  <th font-size=115%;>
+  <th style="font-size:150%;">
     Preview
   </th>
 </tr>
