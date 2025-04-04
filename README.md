@@ -4,10 +4,13 @@
   <th>
     linear
   </th>
+  <th>
+    heartbeat
+  </th>
 </tr>
 <tr>
   <td>
-    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/linear-2.png">
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/heartbeat-2.png">
   </td>
 </tr>
 
@@ -159,6 +162,25 @@
   <td>
     <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_out_circ-2.png">
    </td>
+</tr>
+
+<tr>
+  <th>
+    ease-in-back
+  </th>
+  <th>
+    ease-out-back
+  </th>
+
+</tr>
+<tr>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_back-2.png">
+   </td>
+   <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_back-2.png">
+   </td>
+
 </tr>
 
 </table>
