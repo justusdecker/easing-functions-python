@@ -40,5 +40,29 @@
    </td>
 </tr>
 
+</tr>
+<tr>
+  <th>
+    ease-in-quad
+  </th>
+  <th>
+    ease-out-quad
+  </th>
+  <th>
+    ease-in-out-quad
+  </th>
+</tr>
+<tr>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_quad-2.png">
+   </td>
+   <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_quad-2.png">
+   </td>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_out_quad-2.png">
+   </td>
+</tr>
+
 
 </table>
