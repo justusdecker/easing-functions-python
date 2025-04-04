@@ -50,7 +50,7 @@
     <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_sine-2.png">
    </td>
   <td>
-    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_out_sine-2.png">
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_out_sine.png">
    </td>
 </tr>
 
