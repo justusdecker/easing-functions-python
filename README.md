@@ -18,7 +18,10 @@
     ease-out-bounce
   </th>
   <th>
-    ease-out-bounce
+    ease-in-sine
+  </th>
+  <th>
+    ease-out-sine
   </th>
 </tr>
 <tr>
@@ -27,7 +30,10 @@
   </td>
    <td>
     <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_sine-2.png">
-  </td>
+   </td>
+   <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_sine-2.png">
+   </td>
 </tr>
 
 
