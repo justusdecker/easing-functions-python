@@ -29,7 +29,7 @@
 </tr>
 <tr>
   <td>
-    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_bounce-2.png">
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_bounce-3.png">
   </td>
   <td>
     <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_bounce.png">
