@@ -1,7 +1,7 @@
 <table> 
 <tr>
   <th>
-    <h1>Preview<h1>
+    <h1>Preview</h1>
   </th>
 </tr>
 
