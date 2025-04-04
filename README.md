@@ -26,6 +26,9 @@
   <th>
     ease-out-bounce
   </th>
+  <th>
+    ease-in-out-bounce
+  </th>
 </tr>
 <tr>
   <td>
@@ -33,6 +36,9 @@
   </td>
   <td>
     <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_bounce.png">
+  </td>
+  <td>
+    coming soon
   </td>
    
 </tr>
@@ -187,6 +193,9 @@
   <th>
     ease-out-back
   </th>
+  <th>
+    ease-in-out-back
+  </th>
 
 </tr>
 <tr>
@@ -195,7 +204,11 @@
    </td>
    <td>
     <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_back-3.png">
+     
    </td>
+   <td>
+    coming soon
+  </td>
 
 </tr>
 
