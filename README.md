@@ -41,6 +41,9 @@
 </tr>
 
 </tr>
+
+
+
 <tr>
   <th>
     ease-in-quad
@@ -61,6 +64,30 @@
    </td>
   <td>
     <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_out_quad-2.png">
+   </td>
+</tr>
+
+
+<tr>
+  <th>
+    ease-in-cubic
+  </th>
+  <th>
+    ease-out-cubic
+  </th>
+  <th>
+    ease-in-out-cubic
+  </th>
+</tr>
+<tr>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_cubic-2.png">
+   </td>
+   <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_out_cubic-2.png">
+   </td>
+  <td>
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/ease_in_out_cubic-2.png">
    </td>
 </tr>
 
