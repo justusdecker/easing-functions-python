@@ -18,7 +18,7 @@
     linear
   </td>
   <td>
-    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/linear-1.png">
+    <img src="https://justusdeckerde.wordpress.com/wp-content/uploads/2025/04/linear-2.png">
   </td>
   <td>
     x
